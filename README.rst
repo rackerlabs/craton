@@ -2,4 +2,4 @@ NOTE: This repo and all development has been moved to https://github.com/opensta
 =========================================================================================
 
 
-** This repository has been moved to https://github.com/openstack/craton, which mirrors https://git.openstack.org/cgit/openstack/craton/. Everything else is nuked
+## This repository has been moved to https://github.com/openstack/craton, which mirrors https://git.openstack.org/cgit/openstack/craton/. Everything else is nuked
